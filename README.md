@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Temidayo
 - 👀 I’m interested in a web development internship 
-- 🌱 I’m currently learning backened development using nodeJS
+- 🌱 I’m currently learning backend development using nodeJS
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me, Email: temid.oyewole@gmail.com
 
